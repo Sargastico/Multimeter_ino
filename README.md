@@ -21,4 +21,4 @@
 
  - [x] Indutance: 10uH, 100H, 10mH and 100mH;
 
- - [x] Frequency: 10Hz, 100Hz and 1kHz
+ - [x] Frequency: 10Hz, 100Hz and 1kHz (The amplitude of the input signal must be positive and equal or lower than 5V)
